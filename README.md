@@ -26,7 +26,7 @@ https://datawhalechina.github.io/ai-prompting-for-everyone/
 
 ## 项目友链
 
-**agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
+**ai-prompting-for-everyone：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone)）
 
 
 **agentic-ai：** 从智能体的工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
@@ -96,14 +96,8 @@ https://datawhalechina.github.io/ai-prompting-for-everyone/
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=datawhalechina%2Fai-prompting-for-everyone&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left" />
- </picture>
-</a>
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left)](https://star-history.dera.page/#datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left)
 
 
 ## License
